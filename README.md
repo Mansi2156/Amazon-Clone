@@ -2,8 +2,6 @@
 This is a clone of a e-commerce website which is Amazon (Front-end part).
 
 
-#### Live Website Link - http://127.0.0.1:5500/index.html
-
 ## Features
 * Home page clone
 
